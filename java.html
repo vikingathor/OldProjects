@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<lang="sv">
+<meta charset="UTF-8">
+<head>
+<title> java</title>
+</head>
+
+<body>
+<header>
+
+<input type="number" id="Nummer1">
+<input type="number" id="Nummer2">
+
+<br><br>
+
+<button onclick="add()">Addera</button>
+<button onclick="minus()">minus</button>
+<button onclick="gånger()">gång</button>
+<button onclick="dela()">dela</button>
+
+<br><br>
+
+<p> <span id="Resultat"></span></p>
+
+<script>
+
+function add() {
+
+var num1= parseFloat(document.getElementById("Nummer1").value);
+var num2= parseFloat(document.getElementById("Nummer2").value);
+var resultat = num1 + num2;
+document.getElementById("Resultat").innerHTML = resultat;
+}
+</script> 
+
+</body>
+</html>

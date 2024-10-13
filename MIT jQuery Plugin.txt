@@ -1,0 +1,35 @@
+//Inkluderat MIT-licensen till plugin 
+
+/*!
+*Mitt jQuery plugin version 1
+*https://FreyaPhotos.com/
+*
+*copyright 2024 Viktor Linder 
+*Projektet är släppt och använder MIT-licensen 
+*https://opensource.org/license/MIT 
+
+*/
+
+
+(function($) {
+ //Jag definierar detta plugin sim en metod av jQuerys 
+
+$.fn.myPlugin = function(options) {
+ //Standard inställning som enkelt kan överrskridas när som helst av vad användaren väljer  
+
+var option = $.extend({
+color: "#556b2f",
+backgroundColor: "white" }, options );
+
+//$.extend har egenskapen att inkludera standard instälningar och alternativet som användaren valt. OCh kan även ersättas om användaren önskar det 
+
+//Skappar plugins huvudlogik 
+
+return this.css({
+color: option.color,
+backgroundColor: option.backgroundColor
+});
+};
+}(jQuery));
+
+//This = jQuery objektet är samma objekt som pluginet kallas på och CSS används för att ange stilinställningarna 
