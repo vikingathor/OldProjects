@@ -1,0 +1,80 @@
+h2 {
+    font-size: 40px;
+    border-bottom: 5px solid ;
+    width: 50%;    
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.Titeln {
+    font-size: 30px;
+    text-align: center;
+}
+
+
+.Sammanfattning{
+border-bottom: 5px solid ;
+width: 12%;
+margin-left: 35px;
+font-size: 25px;
+}
+
+.profil {
+border: 2px solid;
+background-color: aliceblue;
+margin: 20px;
+text-align: center;
+}
+
+body {
+  background-color: bisque;
+}
+
+ 
+
+header {
+    background-image: url('cvhem.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+footer {
+    background-image: url('cvhem.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+
+.text-box {
+    display: flex;
+justify-content: space-between; 
+margin: 35px;
+}
+
+.text-box li {
+    padding: 20px;
+}
+
+.låda {
+    display: flex;
+
+    gap: 100px;
+    width: 100%;
+
+}
+
+.box {
+    height: 50%;
+    background-color: aliceblue;
+    border: 2px solid black;
+
+    
+}
+
+h3 {
+    text-align: center;
+}
+
