@@ -1,0 +1,10 @@
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\bin\Debug\Klient till Centraldatorn.exe.config
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\bin\Debug\Klient till Centraldatorn.exe
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\bin\Debug\Klient till Centraldatorn.pdb
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\obj\Debug\Klient till Centraldatorn.csproj.AssemblyReference.cache
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\obj\Debug\Klient_till_Centraldatorn.Form1.resources
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\obj\Debug\Klient_till_Centraldatorn.Properties.Resources.resources
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\obj\Debug\Klient till Centraldatorn.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\obj\Debug\Klient till Centraldatorn.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\obj\Debug\Klient till Centraldatorn.exe
+C:\Users\vikto\source\repos\Klient till Centraldatorn\Klient till Centraldatorn\obj\Debug\Klient till Centraldatorn.pdb
